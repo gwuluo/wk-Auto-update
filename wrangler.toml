@@ -1,5 +1,5 @@
 name = "wk-auto-update"
 main = "_worker.js"
-compatibility_date = "2025-06-24"
+compatibility_date = "2025-07-04"
 usage_model = "bundled"
 workers_dev = true
